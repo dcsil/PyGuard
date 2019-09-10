@@ -7,7 +7,7 @@ Diversity is ... Intro Statement
 Team Background
 ---
 
-Our team has a varied background. We have people from multiple continents who speak many lanuages combined....
+Our team has a varied background. We have people from multiple continents who speak many languages combined....
 
 ## Strengths & Weaknesses
 
