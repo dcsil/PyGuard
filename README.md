@@ -1,16 +1,10 @@
-# Team Repo Template
-
-This Repository includes a template for your Team's Repository. https://github.com/dcsil/klutch is a good example of an implementation of this!
-
-**README template starts below this line 👇👇👇 Delete above this line :)**
-
-# COMPANY NAME
+# PyGuard
 
 ![Team Logo](./logo.png)
 
-#### Team Slack Channel: #team\-\<your\-company\-name\-here\>
+#### Team Slack Channel: #team-pyguard
 
-COMPANY NAME is a company founded in the THEME industry. COMPANY NAME aims to VISION STATEMENT.
+PyGuard is a company founded in the tech industry. PyGuard aims to (VISION STATEMENT).
 
 Table of Contents
 ---
@@ -20,3 +14,4 @@ Table of Contents
 - [Product & Research](./product_research/)
     - [Market](./product_research/market.md)
     - [Roadmap](./product_research/roadmap.md)
+    
