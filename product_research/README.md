@@ -1,10 +1,16 @@
-Product & Research
----
+# PyGuard
 
-This folder contains content and research about our product, including market research, product feedback, and user exploration.
+![Team Logo](./logo.png)
+
+#### Team Slack Channel: #team\-\<your\-company\-name\-here\>
+
+COMPANY NAME is a company founded in the THEME industry. COMPANY NAME aims to VISION STATEMENT.
 
 Table of Contents
 ---
 
-- [Market](./market.md)
-- [Roadmap](./roadmap.md)
+- [People](./team/)
+- [Diversity](./team/diversity.md)
+- [Product & Research](./product_research/)
+    - [Market](./product_research/market.md)
+    - [Roadmap](./product_research/roadmap.md)
