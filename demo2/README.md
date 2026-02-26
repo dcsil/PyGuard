@@ -39,6 +39,7 @@ These diagrams show:
 - Data/request flow between components
 - Decoupling boundaries that support evolution (e.g., adding transaction ingestion and fraud analysis later)
 
+
 ### 5) Evidence / Screenshots
 
 - **Folder:** `assets/`
