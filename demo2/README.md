@@ -31,7 +31,7 @@ This release transitions PyGuard from a proof of concept (single web-chat intera
 
 ### 4) Architecture & Topology Diagrams
 
-- **System Topology ArchitectureDiagram (Deployment/Runtime View):** `assets/evolved-topology.jpg`
+- **System Topology ArchitectureDiagram (Deployment/Runtime View):** `evolved-topology.jpg`
 
 These diagrams show:
 
